@@ -20,19 +20,20 @@
 - scipy
 - sklearn
 
-###Libraies for Machine Learning
--sklearn.cluster.KMeans
--sklearn.cluster.SpectralClustering
--sklearn.cluster.DBSCAN
--sklearn.preprocessing.FunctionTransformer
--sklearn.naive_bayes.GaussianNB
--sklearn.neighbors.KNeighborsClassifier
--sklearn.ensemble.RandomForestClassifier
--klearn.naive_bayes.MultinomialNB
--sklearn.tree.DecisionTreeClassifier
--sklearn.svm.SVC, SVR, NuSVR, NuSVC
--sklearn.linear_model.SGDClassifier
--sklearn.cluster.MiniBatchKMeans
+### Libraies for Machine Learning
+
+- sklearn.cluster.KMeans
+- sklearn.cluster.SpectralClustering
+- sklearn.cluster.DBSCAN
+- sklearn.preprocessing.FunctionTransformer
+- sklearn.naive_bayes.GaussianNB
+- sklearn.neighbors.KNeighborsClassifier
+- sklearn.ensemble.RandomForestClassifier
+- sklearn.naive_bayes.MultinomialNB
+- sklearn.tree.DecisionTreeClassifier
+- sklearn.svm.SVC, SVR, NuSVR, NuSVC
+- sklearn.linear_model.SGDClassifier
+- sklearn.cluster.MiniBatchKMeans
 
 
 ### Code Structure
