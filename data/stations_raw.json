@@ -1,0 +1,543 @@
+{
+ "head": {
+  "vars": [
+   "station",
+   "EnglishName",
+   "RealName",
+   "Location",
+   "District",
+   "OpeningDate"
+  ]
+ },
+ "results": {
+  "bindings": [
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q5072152"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Changying station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u5e38\u8425\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.5934394 39.9243238)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Changying"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q130441"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Haidian Wuluju station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u6d77\u6dc0\u4e94\u8def\u5c45\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.2708883 39.9314412)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Balizhuang Subdistrict, Haidian District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q130435"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Chegongzhuang West station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u8f66\u516c\u5e84\u897f\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.3379924 39.9310984)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Zhanlanlu Subdistrict"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q82801"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Caofang station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u8349\u623f\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.6102647 39.923208)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Changying"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q9278249"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Cishousi station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u6148\u5bff\u5bfa\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.2888626 39.9315586)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Balizhuang Subdistrict, Haidian District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q7267855"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Qingnianlu station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u9752\u5e74\u8def\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.5108366 39.9216819)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Pingfang"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q4881077"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Beihai North station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u5317\u6d77\u5317\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.3800445 39.9317985)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Xicheng District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q130437"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Huayuanqiao station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u82b1\u56ed\u6865\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.3039811 39.9312135)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Haidian District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q10909164"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Nanluoguxiang station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u5357\u9523\u9f13\u5df7\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.3976888 39.9323094)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Dongcheng District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q5296033"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Dongsi station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u4e1c\u56db\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.4102477 39.9229744)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Dongcheng District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q4848682"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Baishiqiao South station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u767d\u77f3\u6865\u5357\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.3192794 39.9313879)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Ganjiakou Subdistrict"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q82803"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Dongdaqiao station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u4e1c\u5927\u6865\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.4455546 39.9215232)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Chaoyang District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q82802"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Shilipu station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u5341\u91cc\u5821\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.4960424 39.9216269)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Chaoyang District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q82796"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Jintailu station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u91d1\u53f0\u8def\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.4723407 39.9215918)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Chaoyang District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q11177956"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Huangqu station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u9ec4\u6e20\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.5730944 39.9227753)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Chaoyang District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q5935355"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Hujialou station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u547c\u5bb6\u697c\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.4554956 39.9220995)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Chaoyang District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   },
+   {
+    "station": {
+     "type": "uri",
+     "value": "http://www.wikidata.org/entity/Q5210947"
+    },
+    "EnglishName": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Dalianpo station"
+    },
+    "RealName": {
+     "xml:lang": "zh",
+     "type": "literal",
+     "value": "\u8921\u88e2\u5761\u7ad9"
+    },
+    "Location": {
+     "datatype": "http://www.opengis.net/ont/geosparql#wktLiteral",
+     "type": "literal",
+     "value": "Point(116.5581345 39.9226731)"
+    },
+    "District": {
+     "xml:lang": "en",
+     "type": "literal",
+     "value": "Chaoyang District"
+    },
+    "OpeningDate": {
+     "datatype": "http://www.w3.org/2001/XMLSchema#dateTime",
+     "type": "literal",
+     "value": "2012-12-30T00:00:00Z"
+    }
+   }
+  ]
+ }
+}
