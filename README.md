@@ -1,6 +1,4 @@
-# CMPT353 Transit Housing Project
-
-This is a CMPT 353 (Fall 2020) final project.
+# Transit Housing Project
 
 ### Data Sources *(saved in data directory)*
 
