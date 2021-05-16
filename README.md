@@ -20,7 +20,7 @@
 - scipy
 - sklearn
 
-### Libraies for Machine Learning
+### Machine Learning Tools
 
 - sklearn.cluster.KMeans
 - sklearn.cluster.SpectralClustering
